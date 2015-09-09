@@ -55,7 +55,7 @@ Level 4
 	git branch -f local HEAD~2
 ###Screenshot
 
-![image](https://github.ncsu.edu/raw/kgong/DevOps-HW/master/Screenshot%202015-09-08%2019.43.18.png?token=AAALM1qYkpEf7T3u6N9S3fFBxhk19cv8ks5V-LbswA%3D%3D =500x)
+![image](https://github.ncsu.edu/raw/kgong/DevOps-HW/master/Screenshot%202015-09-08%2019.43.18.png?token=AAALM1qYkpEf7T3u6N9S3fFBxhk19cv8ks5V-LbswA%3D%3D)
 
 ###Content in post-commit
 
