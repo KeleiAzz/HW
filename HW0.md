@@ -59,7 +59,7 @@ Level 4
 
 ###Content in post-commit
 
-	\#!/bin/bash
+	#!/bin/bash
 	open http://www.ncsu.edu
 
 And run this command:
