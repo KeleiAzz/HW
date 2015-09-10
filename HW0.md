@@ -66,5 +66,5 @@ And run this command:
 
 	chmod +x .git/hooks/post-commit
 	
-[Screencast](https://drive.google.com/a/ncsu.edu/file/d/0B87f7178bIHnaXJKems5Wm5KT3M/view?usp=sharing)
+[Screencast](https://drive.google.com/file/d/0B87f7178bIHnR0MwenFjN0xPc00/view?usp=sharing)
 
